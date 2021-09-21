@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [pebabion](https://twitter.com/pebabiion) (Kelvin) 👋
+
+I'm a Data Engineer, currently living in Singapore 🇸🇬
 
 <!--
 **kelvin1794/kelvin1794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
