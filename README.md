@@ -2,6 +2,8 @@
 
 I'm a Data Engineer, currently living in Singapore 🇸🇬
 
+- 📫 How to reach me: knguyen@codeuniverse.onmicrosoft.com
+
 <!--
 **kelvin1794/kelvin1794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
