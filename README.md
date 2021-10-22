@@ -2,7 +2,8 @@
 
 I'm a Data Engineer, currently living in Singapore 🇸🇬
 
-- 📫 How to reach me: knguyen@codeuniverse.onmicrosoft.com
+- 📫 How to reach me: <knguyen@codeuniverse.onmicrosoft.com>
+- 🏡 You can also find me here: <http://pebabion.com>
 
 <!--
 **kelvin1794/kelvin1794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
