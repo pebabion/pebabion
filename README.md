@@ -3,7 +3,7 @@
 I'm a Data Engineer, currently living in Singapore 🇸🇬
 
 - 📫 How to reach me: <hey@pebabion.com>
-- 🏡 You can also find me here: <http://pebabion.com>
+- 🏡 You can also find me here: <https://pebabion.com>
 
 <!--
 **kelvin1794/kelvin1794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
