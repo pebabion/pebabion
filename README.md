@@ -2,7 +2,7 @@
 
 I'm a Data Engineer, currently living in Singapore 🇸🇬
 
-- 📫 How to reach me: <hey@pebabion.com>
+- 📫 How to reach me: <hello@pebabion.com>
 - 🏡 You can also find me here: <https://pebabion.com>
 
 <!--
